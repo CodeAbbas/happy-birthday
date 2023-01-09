@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Sylhet, Bangladesh</h3>
 
 
-- 🔗 I’m currently working on [Web Development](https://codeabbas.github.io/happy-birthday/)
+- 🔗 See this project [Happy Birthday](https://codeabbas.github.io/happy-birthday/)
 - 🔭 I’m currently working on [Web Development](https://abbas-uddin.blogspot.com/)
 
 - 👨‍💻 I’m currently learning **JavaScript, C, C++**
