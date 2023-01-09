@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abbas Uddin</h1>
 <h3 align="center">A passionate frontend developer from Sylhet, Bangladesh</h3>
-- See this project [🔗Happy Birthday](https://codeabbas.github.io/happy-birthday/)
+- 🔗 See this project [Happy Birthday](https://codeabbas.github.io/happy-birthday/)
 
 - 🔭 I’m currently working on [Web Development](https://abbas-uddin.blogspot.com/)
 
