@@ -3,7 +3,7 @@
   "name": "Oron",
   "greetingText": "I really like the person u r btw!",
   "wishText": "May the good wishes always be with you! ;)",
-  "imagePath": "https://raw.githubusercontent.com/CodeAbbas/happy-birthday/main/IMG_20230326_032925.jpg",
+  "imagePath": "./dev.jpg",
   "text1": "It's your birthday!!! :D",
   "textInChatBox": "Happy birthday to you!! Yeee! Many many happy blah...",
   "sendButtonLabel": "Send",
